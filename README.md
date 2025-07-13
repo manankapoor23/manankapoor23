@@ -44,4 +44,4 @@
 ---
 
 _“Learning one repo at a time.”_  
-![Leetcode Stats](https://leetcard.jacoblin.cool/YBnhEDU3Xn?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/manankapoor23?ext=heatmap)
