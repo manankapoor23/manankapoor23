@@ -17,6 +17,7 @@
 - 🗄️ SQL and databases
 - 🎬 Photography and cinematography basics
 
+![snake gif](https://github.com/manankapoor23/manankapoor23/blob/output/github-snake-dark.svg)
 ---
 
 ## 🧩 Side Projects
@@ -38,7 +39,7 @@
 ## 📬 Connect With Me
 
 - 📸 [Instagram](https://instagram.com/yourusername) *(if you want to share)*
-- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin) *(optional)*
+- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin) 
 - 📂 [My Projects](https://github.com/manankapoor23)
 
 ---
