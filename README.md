@@ -12,7 +12,6 @@
 
 - 📚 C++ & Data Structures
 - 🧠 Machine Learning fundamentals
-- 🌐 Web development (HTML, CSS, JavaScript, React)
 - 🐍 Python for automation & data science
 - 🗄️ SQL and databases
 - 🎬 Photography and cinematography basics
