@@ -3,6 +3,7 @@
 Engineering student at Thapar Institute  
 Based in India  
 Member of the Echoes Club – Media & Content Team  [ 2024 ] 
+
 Core Echoes Club - Creative Assistant [ 2025 ]
 
 Aspiring Software Developer | AI/ML & Web Dev Enthusiast  
@@ -22,7 +23,6 @@ What I'm Learning
 Side Projects
 
 - **Fire Behavior Predictor** – A fire-spread visualization & prediction tool (R&D + data engineering)
-- **Reasoning Engine** – AI-driven cause-effect narrative tool (LLM + visual chain mapping)
 - **Photography Portfolio** – My clicks and experiments with light and framing
 
 ---
