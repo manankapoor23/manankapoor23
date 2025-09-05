@@ -9,15 +9,16 @@ Core Echoes Club - Creative Assistant [ 2025 ]
 Aspiring Software Developer | AI/ML & Web Dev  
 Photographer / Videographer / Editor / Creative
 
-What I'm Learning
+##  What I'm Learning
 
- C++ & Data Structures & Algos
- Machine Learning fundamentals
- LLMs / GenAi
- Python for automation & data science
- SQL and databases
- Photography and cinematography basics
- Controlling my Diet Coke addiction 
+- **C++ & Data Structures & Algorithms**  
+- **Machine Learning Fundamentals**  
+- **LLMs / Generative AI**  
+- **Python for Automation & Data Science**  
+- **SQL and Databases**  
+- **Photography and Cinematography Basics**  
+- **Controlling my Diet Coke Addiction** 
+
 
 
 ![snake gif](https://github.com/manankapoor23/manankapoor23/blob/output/github-snake-dark.svg)
