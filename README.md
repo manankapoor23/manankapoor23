@@ -17,6 +17,7 @@ What I'm Learning
  Python for automation & data science
  SQL and databases
  Photography and cinematography basics
+ Controlling my Diet Coke addiction 
 
 
 ![snake gif](https://github.com/manankapoor23/manankapoor23/blob/output/github-snake-dark.svg)
@@ -33,7 +34,6 @@ Side Projects
 Currently Working On
 
 Improving my GitHub repos and documentation
-Controlling my Diet Coke addiction 
 Capturing 
 Exploring open-source contributions and hackathons
 Trying to get into LLMs & GenAi
