@@ -44,6 +44,7 @@ Trying to get into LLMs & GenAi
 
 
  [My Projects](https://github.com/manankapoor23)
+ [LinkedIn](https://www.linkedin.com/in/manan-kapoor-8545002a0/)
 
 ---
 
