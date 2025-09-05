@@ -30,7 +30,7 @@ Side Projects
 
 ---
 
-#Currently Working On
+Currently Working On
 
 Improving my GitHub repos and documentation
 Controlling my Diet Coke addiction 
