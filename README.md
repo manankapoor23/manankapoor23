@@ -1,21 +1,18 @@
 #  Hi, I'm Manan Kapoor
+ Sophomore Engineering Student @ Thapar Institute of Engineering & Technology (India)  
 
-Sophomore Engineering student at Thapar Institute Of Engineering & Technology 
-Based in India  
-Member of the Echoes Club – Media & Content Team  [ 2024 ] 
+Aspiring Software Developer | AI/ML Enthusiast | Web Development Explorer  
 
-Core Echoes Club - Creative Assistant [ 2025 ]
+ Roles & Experience  
+- Member – Echoes Club (Media & Content Team) [2024]  
+- Core Member – Echoes Club (Creative Assistant) [2025]  
+- Core Member – Saturnalia 2025 (Tech Team)  
 
-Aspiring Software Developer | AI/ML & Web Dev  
-Photographer / Videographer / Editor / Creative
-
-# Hi there 👋 I'm Manan Kapoor  
-
-🚀 Aspiring Software Engineer | 🎥 Cinematography Enthusiast | 📚 Engineering Student at Thapar University  
+ Photographer | Videographer | Editor | Creative Designer
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
 <p align="center">
   <!-- Languages -->
@@ -38,7 +35,7 @@ Photographer / Videographer / Editor / Creative
 
 ---
 
-## 🌐 Connect With Me  
+##  Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manan-kapoor-8545002a0/">
