@@ -41,10 +41,17 @@ Photographer / Videographer / Editor / Creative
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manan-kapoor-8545002a0//"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:23.kapoormanan@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://x.com/Manankap2311"><img src="https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" /></a>
+  <a href="https://www.linkedin.com/in/manan-kapoor-8545002a0/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:23.kapoormanan@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://x.com/Manankap2311">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" height="40"/>
+  </a>
 </p>
+
 
 ##  What I'm Learning
 
