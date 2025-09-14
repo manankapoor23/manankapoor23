@@ -19,17 +19,12 @@ Photographer / Videographer / Editor / Creative
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,ts,sql" />
-</p>
-
-<p align="center">
-  <!-- Frameworks & Tools -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,sql" />
 </p>
 
 <p align="center">
   <!-- Other Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,,vercel,netlify" />
 </p>
 
 ---
@@ -37,8 +32,8 @@ Photographer / Videographer / Editor / Creative
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MananKapoor&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MananKapoor&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manankapoor23r&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manankapoor23&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -46,9 +41,9 @@ Photographer / Videographer / Editor / Creative
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://www.linkedin.com/in/manan-kapoor-8545002a0//"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:23.kapoormanan@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://x.com/Manankap2311"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
 ##  What I'm Learning
