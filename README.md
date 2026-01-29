@@ -1,15 +1,15 @@
-# Hi, I'm Manan Kapoor 👋  
+# Hi, I'm Manan Kapoor   
 
-🎓 **Sophomore Engineering Student (COE)**  
-📍 Thapar Institute of Engineering & Technology, India  
-💡 Aspiring **Software Developer** | **AI/ML Research Enthusiast** | **Web Dev Explorer**
+ **Sophomore Engineering Student (COE)**  
+ Thapar Institute of Engineering & Technology, India  
+ Aspiring **Software Developer** | **AI/ML Research Enthusiast** | **Web Dev Explorer**
 
 I like building things that *actually work* — from ML pipelines and datasets for LLMs to clean web projects and creative media.  
 Currently exploring the intersection of **Machine Learning, LLMs, and real-world systems**.
 
 ---
 
-## 🚀 Roles & Experience  
+##  Roles & Experience  
 
 **Research Intern** — Thapar Institute of Engineering & Technology *(2025–Present)*  
 - Built end-to-end **data engineering pipelines** for Punjabi LLM fine-tuning  
@@ -27,11 +27,11 @@ Currently exploring the intersection of **Machine Learning, LLMs, and real-world
 - Member — **Echoes Club** (Media & Content Team) [2024]  
 - Core Member — **Saturnalia 2025** (Tech Team)  
 
-📸 Photographer | 🎥 Videographer | 🎨 Creative Designer  
+ Photographer |  Videographer |  Creative Designer  
 
 ---
 
-## 🧠 What I’m Currently Learning  
+##  What I’m Currently Learning  
 
 - **C++ & Data Structures / Algorithms**  
 - **Machine Learning & Deep Learning**  
@@ -43,6 +43,78 @@ Currently exploring the intersection of **Machine Learning, LLMs, and real-world
 - Reducing my **Diet Coke dependency** (ongoing battle)
 
 ---
+## 🧠 AI Systems & LLM Internals (Current Focus)
+
+I’m exploring **how modern AI systems actually run under the hood** — not just how to call APIs.
+
+My current focus is on **LLM inference, memory management, and production-scale design**, bridging **deep learning + systems engineering**.
+
+### 🔍 What I’m Studying
+- Autoregressive decoding in transformer models  
+- **Key–Value (KV) cache mechanics**  
+- Inference-time memory behavior  
+- Latency vs throughput tradeoffs  
+- Why naïve inference implementations break at scale  
+
+I strongly believe **understanding inference is as important as training models**.
+
+---
+
+### 🔬 Recent Deep Dive: KV Cache (Hands-on)
+
+I implemented and experimented with a **naive KV-cache** using open-source transformer models to understand real inference behavior.
+
+**Key insights:**
+- KV cache correctly avoids recomputing attention for past tokens  
+- Naive KV cache **grows unbounded** in multi-turn conversations  
+- In production:
+  - Prompt & response lengths are unknown
+  - Contiguous allocation becomes fragile
+  - Memory fragmentation and waste increase over time
+  - Decoder-side memory pressure continuously grows
+- Framework-level KV caches abstract memory layout, limiting control  
+
+ **Conclusion:** Naive KV caching is *correct*, but **not scalable**.
+
+---
+
+###  What I’m Exploring Next: Paged KV Cache
+
+I’m now working on a **paged KV-cache design**, inspired by production inference engines, to understand:
+
+- How fixed-size KV pages prevent fragmentation  
+- Decoupling logical token order from physical memory  
+- Prefix reuse: *compute once, reuse many times*  
+- Reference counting & copy-on-write for safe sharing  
+- How OS concepts (paging, virtual memory) apply directly to LLM inference  
+
+> **KV cache enables reuse over time.  
+> Paging enables reuse over space.**
+
+---
+
+### 🛠 Tech Stack (Systems + AI)
+- Python  
+- PyTorch  
+- Hugging Face Transformers  
+- Apple Silicon (CPU / MPS)  
+- Inference debugging, profiling & benchmarking  
+- API usage: **OpenAI SDK, Google APIs**, and modern ML tooling  
+
+I prefer **correctness, clarity, and understanding** over chasing benchmarks.
+
+---
+
+###  What I Care About
+- AI **systems**, not just AI models  
+- How things **scale**, not just how they work once  
+- Building mental models, not copying code  
+- Treating CS fundamentals as **skills**, not subjects  
+
+---
+
+###  Philosophy
+> *“Understanding how AI runs is as important as understanding how it learns.”*
 
 ## 🛠 Tech Stack  
 
