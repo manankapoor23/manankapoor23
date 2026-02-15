@@ -4,7 +4,7 @@
  Thapar Institute of Engineering & Technology, India  
  Aspiring **Software Developer** | **AI/ML Research Enthusiast** | **Web Dev Explorer**
 
-I like building things that *actually work* — from ML pipelines and datasets for LLMs to clean web projects and creative media.  
+I love building things that *actually work* — from ML pipelines and datasets for LLMs to clean web projects and creative media.  
 Currently exploring the intersection of **Machine Learning, LLMs, and real-world systems**.
 
 ---
