@@ -151,28 +151,6 @@ I prefer **correctness, clarity, and understanding** over chasing benchmarks.
 ###  Philosophy
 > *“Understanding how AI runs is as important as understanding how it learns.”*
 
-## 🛠 Tech Stack  
-
-### Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,r,html,css,sql" />
-</p>
-
-### ML / AI
-- Machine Learning, Deep Learning, Neural Networks  
-- Transformers, LLMs, RAG, Instruction Tuning  
-- NLP, Dataset Engineering, Model Evaluation  
-
-### Libraries & Tools
-- Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib  
-- LangChain, OpenAI SDK, NLTK  
-- Git, GitHub, Docker, VS Code, Jupyter, RStudio  
-
-### CS Fundamentals
-- DSA, OOP, OS, DBMS, Computer Networks  
-- Probability & Statistics  
-
----
 
 ## 🧪 Featured Projects  
 
