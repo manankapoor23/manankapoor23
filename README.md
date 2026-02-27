@@ -57,7 +57,7 @@ Currently exploring the intersection of **Machine Learning, LLMs, and real-world
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
- <img src="https://img.shields.io/badge/Unsloth-FF6B35?style=for-the-badge&logoColor=white" />
+ <img src="https://raw.githubusercontent.com/manankapoor23/manankapoor23/main/assets/E4lkPz1TZNLzlFr_dR273.webp" height="35" />
 </p>
 
 ### 📊 Data Science
