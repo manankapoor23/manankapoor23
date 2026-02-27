@@ -43,6 +43,40 @@ Currently exploring the intersection of **Machine Learning, LLMs, and real-world
 - Reducing my **Diet Coke dependency** (ongoing battle)
 
 ---
+## 🛠 Tech Stack
+
+### 💬 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,r,html,css" />
+</p>
+
+### 🤖 ML / AI Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+### 📊 Data Science
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=matlab" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🛠 Tools & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,jupyter,postgres" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
+</p>
 ## 🧠 AI Systems & LLM Internals (Current Focus)
 
 I’m exploring **how modern AI systems actually run under the hood** — not just how to call APIs.
