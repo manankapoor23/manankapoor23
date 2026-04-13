@@ -1,171 +1,139 @@
 <div align="center">
 
-```
-███╗   ███╗ █████╗ ███╗   ██╗ █████╗ ███╗   ██╗
-████╗ ████║██╔══██╗████╗  ██║██╔══██╗████╗  ██║
-██╔████╔██║███████║██╔██╗ ██║███████║██╔██╗ ██║
-██║╚██╔╝██║██╔══██║██║╚██╗██║██╔══██║██║╚██╗██║
-██║ ╚═╝ ██║██║  ██║██║ ╚████║██║  ██║██║ ╚████║
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+# Manan Kapoor
 
-[![Typing SVG](](https://git.io/typing-svg)[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=NLP+Research+Intern+%40+TIET;LLM+Fine-tuning+%26+Data+Engineering;Low-Resource+Punjabi+NLP;Building+things+that+actually+work.)](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=NLP+Research+Intern+%40+TIET;LLM+Fine-tuning+%26+Data+Engineering;Low-Resource+Punjabi+NLP;Building+things+that+actually+work.))
+### ML Systems Engineer | LLM Inference | Data Pipelines | AI Infrastructure
+
+Designing and optimizing systems for large language models — focusing on inference performance, memory efficiency, scalability, and real-world deployment constraints.
 
 <br/>
 
-[LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
-
-[Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)
-
-[X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)
-
-[GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+[LinkedIn](https://www.linkedin.com/in/manan-kapoor-8545002a0/) • 
+[Email](mailto:23.kapoormanan@gmail.com) • 
+[GitHub](https://github.com/manankapoor23)
 
 </div>
 
 ---
 
-## 👾 About Me
+## Summary
 
-```python
-manan = {
-    "role"      : "NLP Research Intern @ TIET",
-    "degree"    : "B.E. Computer Engineering (2024–2028)",
-    "cgpa"      : 8.39,
-    "focus"     : ["LLM Fine-tuning", "Low-Resource NLP", "Inference Systems"],
-    "current"   : "Punjabi LLM (PLC-Rewrite) | Sarvam 30B Red-Teaming | MLOps",
-    "fun_fact"  : "Fighting a Diet Coke dependency (losing)"
-}
-```
+Computer Engineering student with a strong focus on **ML Systems Engineering, LLM inference optimization, and data pipeline design**.  
+
+Experienced in building **end-to-end systems around large language models**, including:
+- Transformer inference optimization (KV caching, memory management)
+- Large-scale dataset engineering for LLM fine-tuning
+- LLM-powered applications (RAG, NL → SQL systems)
+
+Interested in solving problems related to **latency, memory constraints, throughput, and scalability** in modern AI systems.
 
 ---
 
-## 🛠 Tech Stack
+## Core Competencies
 
-### Languages
+**ML Systems & Infrastructure**
+- Transformer inference optimization (KV cache, paging, prefix reuse)
+- Memory-efficient model serving and execution
+- Performance profiling (latency, memory, compute trade-offs)
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,r,html,css&perline=6" />
-</p>
+**LLM Engineering**
+- Fine-tuning workflows (instruction tuning, dataset preparation)
+- Retrieval-Augmented Generation (RAG)
+- Prompt engineering and structured generation
 
-### ML / AI
+**Data Engineering for ML**
+- Large-scale dataset cleaning, deduplication, and normalization
+- JSONL dataset design for training pipelines
+- Data validation and reproducibility
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=6" />
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-</p>
-
-### Data Science
-
-<p align="center">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-### Infra & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,git,github,fastapi,vscode,jupyter,linux&perline=7" />
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-<img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" />
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-<img src="https://img.shields.io/badge/BentoML-171717?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-### Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&perline=3" />
-</p>
+**Backend & Systems**
+- API development (FastAPI)
+- Pipeline orchestration concepts (Airflow, MLflow, DVC)
+- Dockerized workflows and reproducible environments
 
 ---
 
-## 🔬 Featured Projects
+## Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### KV-Paged Inference System for Transformer Models
+Systems-level implementation of memory-efficient KV caching for transformer inference.
 
-### PLC-Rewrite — Punjabi LLM Dataset
+- Designed paging-based KV cache architecture decoupling logical token positions from physical memory
+- Implemented **prefix reuse, reference counting, and copy-on-write semantics** for efficient memory sharing
+- Reduced redundant allocations and improved memory efficiency in long-context decoding scenarios
+- Validated numerical correctness against naive attention (<0.1% deviation)
 
-Fine-tuned **LLaMA 3.1 8B** on a ~100K sample controlled text transformation dataset for low-resource Punjabi NLP. Evaluated with BLEU, chrF++, ROUGE-L, BERTScore, and Gurmukhi script adherence.
+**Keywords:** Transformer Inference, KV Cache, Memory Optimization, LLM Systems, PyTorch
 
-`LLaMA` `QLoRA` `Punjabi NLP` `HuggingFace`
+---
 
-</td>
-<td width="50%">
+### Punjabi LLM Dataset Engineering Pipeline (PLC-Rewrite)
+Large-scale data engineering system for low-resource LLM fine-tuning.
 
-### ⚡ KV-Paged Inference System
+- Processed **16M+ tokens (1.1M+ sentences)** with automated deduplication and noise filtering
+- Built structured JSONL datasets for instruction tuning and evaluation
+- Designed reproducible pipelines with schema validation and metadata annotation
+- Improved data quality and reduced manual curation effort significantly
 
-Implemented a paged KV-cache system from scratch, inspired by vLLM's architecture. Covers fixed-size page allocation, prefix reuse, and copy-on-write semantics.
+**Keywords:** Data Pipelines, NLP, LLM Fine-Tuning, Dataset Engineering
 
-`PyTorch` `Transformers` `Inference Optimization`
+---
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+### Natural Language → SQL System (LLM Data Assistant)
+LLM-powered system for querying structured databases using natural language.
 
-### 🤖 NL-to-SQL Slack Bot
+- Built end-to-end pipeline: user query → SQL generation → execution → formatted response
+- Integrated with Slack using FastAPI and LangChain
+- Implemented schema-aware SQL generation for accurate query execution
 
-Production-grade Slack AI data bot — natural language → SQL → formatted response. Built with LangChain, Gemini, SQLite, and FastAPI.
+**Keywords:** LLM Applications, LangChain, SQL, Backend Systems, API Integration
 
-`LangChain` `Gemini` `FastAPI` `Slack API`
+---
 
-</td>
-<td width="50%">
+## Engineering Approach
 
-### Hestia — Fire Prediction Model
+- System-first mindset: design architecture before implementation
+- Focus on **performance metrics**: memory usage, latency, throughput
+- Explicit analysis of **trade-offs** (memory vs compute vs scalability)
+- Emphasis on reproducibility and pipeline reliability
+- Preference for understanding underlying systems over relying only on frameworks
 
-End-to-end ML pipeline on environmental data. Feature analysis identified temperature & relative humidity as key predictors.
+---
 
-`scikit-learn` `Pandas` `Feature Engineering`
+## Tech Stack
 
-</td>
-</tr>
-</table>
+**Languages:** Python, C++, JavaScript  
+**ML/AI:** PyTorch, Transformers, Scikit-learn  
+**LLM Tools:** Hugging Face, LangChain, OpenAI SDK  
+**Data:** Pandas, NumPy, SQL (PostgreSQL, SQLite)  
+**Backend:** FastAPI  
+**Systems & Infra:** Docker, Linux, MLflow, DVC, Airflow  
+**Tools:** Git, Jupyter Notebook, VS Code  
 
 ---
 
 ## Experience
 
-**NLP Research Intern** — TIET *(2025–Present)*
+**NLP Research Intern — Thapar Institute of Engineering & Technology (2025–Present)**  
 
-- Built data engineering pipelines for Punjabi LLM fine-tuning
-- Processed **16.2M+ tokens (1.1M sentences)** with dedup & noise filtering
-- Designed training-ready JSONL benchmarks for instruction tuning
-
-**Media Intern** — Escape Media Tech *(Jun–Jul 2025)*
-
-- Produced 15+ short-form videos with **100K+ total views**
-- End-to-end content: raw footage → platform-ready output across 3+ cities
+- Built end-to-end data engineering pipelines for Punjabi LLM fine-tuning  
+- Processed **16.2M+ tokens** with automated deduplication, normalization, and validation  
+- Developed structured datasets for instruction tuning and evaluation workflows  
+- Improved dataset quality and reproducibility for downstream training systems  
 
 ---
 
-## GitHub Stats
+## Current Work & Interests
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=manankapoor23&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manankapoor23&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-<p align="center">
-<img src="[https://streak-stats.demolab.com?user=manankapoor23&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com/?user=manankapoor23&theme=tokyonight&hide_border=true)" />
-</p>
+- LLM inference optimization (KV caching, memory-efficient decoding)
+- Scalable ML systems and model serving architectures
+- Dataset engineering for low-resource languages
+- System-level aspects of AI safety, robustness, and reliability
 
 ---
 
-<p align="center">
-<img src="https://github.com/manankapoor23/manankapoor23/blob/output/github-snake-dark.svg" alt="github contribution snake" />
-</p>
+## Links
+
+- GitHub: https://github.com/manankapoor23  
+- LinkedIn: https://www.linkedin.com/in/manan-kapoor-8545002a0/  
+- Email: 23.kapoormanan@gmail.com
