@@ -69,8 +69,8 @@
 <rect x="144" y="34" width="11" height="11" rx="2" fill="#1f6feb"><title>2025-10-12: 6</title></rect>
 <rect x="144" y="48" width="11" height="11" rx="2" fill="#0d2d4d"><title>2025-10-13: 2</title></rect>
 <rect x="144" y="62" width="11" height="11" rx="2" fill="#1f6feb"><title>2025-10-14: 6</title></rect>
-<rect x="144" y="76" width="11" height="11" rx="2" fill="#0d2d4d"><title>2025-10-15: 2</title></rect>
-<rect x="144" y="90" width="11" height="11" rx="2" fill="#1f6feb"><title>2025-10-16: 5</title></rect>
+<rect x="144" y="76" width="11" height="11" rx="2" fill="#14507f"><title>2025-10-15: 3</title></rect>
+<rect x="144" y="90" width="11" height="11" rx="2" fill="#1f6feb"><title>2025-10-16: 4</title></rect>
 <rect x="144" y="104" width="11" height="11" rx="2" fill="#58a6ff"><title>2025-10-17: 8</title></rect>
 <rect x="144" y="118" width="11" height="11" rx="2" fill="#58a6ff"><title>2025-10-18: 14</title></rect>
 <rect x="158" y="34" width="11" height="11" rx="2" fill="#0d2d4d"><title>2025-10-19: 1</title></rect>
@@ -260,8 +260,8 @@
 <rect x="522" y="62" width="11" height="11" rx="2" fill="#1f6feb"><title>2026-04-21: 5</title></rect>
 <rect x="522" y="76" width="11" height="11" rx="2" fill="#0d2d4d"><title>2026-04-22: 1</title></rect>
 <rect x="522" y="90" width="11" height="11" rx="2" fill="#0d2d4d"><title>2026-04-23: 2</title></rect>
-<rect x="522" y="104" width="11" height="11" rx="2" fill="#0d2d4d"><title>2026-04-24: 1</title></rect>
-<rect x="522" y="118" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-04-25: 11</title></rect>
+<rect x="522" y="104" width="11" height="11" rx="2" fill="#0d2d4d"><title>2026-04-24: 2</title></rect>
+<rect x="522" y="118" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-04-25: 10</title></rect>
 <rect x="536" y="34" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-04-26: 18</title></rect>
 <rect x="536" y="48" width="11" height="11" rx="2" fill="#0d2d4d"><title>2026-04-27: 2</title></rect>
 <rect x="536" y="62" width="11" height="11" rx="2" fill="#0d2d4d"><title>2026-04-28: 1</title></rect>
@@ -321,8 +321,8 @@
 <rect x="648" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-21: 0</title></rect>
 <rect x="648" y="48" width="11" height="11" rx="2" fill="#0d2d4d"><title>2026-06-22: 2</title></rect>
 <rect x="648" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-23: 0</title></rect>
-<rect x="648" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-24: 0</title></rect>
-<rect x="648" y="90" width="11" height="11" rx="2" fill="#1f6feb"><title>2026-06-25: 4</title></rect>
+<rect x="648" y="76" width="11" height="11" rx="2" fill="#0d2d4d"><title>2026-06-24: 1</title></rect>
+<rect x="648" y="90" width="11" height="11" rx="2" fill="#14507f"><title>2026-06-25: 3</title></rect>
 <rect x="648" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-26: 0</title></rect>
 <rect x="648" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-27: 0</title></rect>
 <rect x="662" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-28: 0</title></rect>
@@ -382,6 +382,6 @@
 <rect x="760" y="104" width="11" height="11" rx="2" fill="#14507f"><title>2026-08-21: 3</title></rect>
 <rect x="760" y="118" width="11" height="11" rx="2" fill="#0d2d4d"><title>2026-08-22: 2</title></rect>
 <rect x="774" y="34" width="11" height="11" rx="2" fill="#1f6feb"><title>2026-08-23: 6</title></rect>
-<rect x="774" y="48" width="11" height="11" rx="2" fill="#1f6feb"><title>2026-08-24: 6</title></rect>
-<text x="46" y="148" fill="#c9d1d9">876<tspan fill="#8b949e"> contributions in the last year</tspan><tspan fill="#8b949e">    ·    </tspan>212<tspan fill="#8b949e"> solved on leetcode </tspan><tspan fill="#8b949e">(</tspan>115<tspan fill="#8b949e">e </tspan>86<tspan fill="#8b949e">m </tspan>11<tspan fill="#8b949e">h)</tspan></text>
+<rect x="774" y="48" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-08-24: 7</title></rect>
+<text x="46" y="148" fill="#c9d1d9">877<tspan fill="#8b949e"> contributions in the last year</tspan><tspan fill="#8b949e">    ·    </tspan>212<tspan fill="#8b949e"> solved on leetcode </tspan><tspan fill="#8b949e">(</tspan>115<tspan fill="#8b949e">e </tspan>86<tspan fill="#8b949e">m </tspan>11<tspan fill="#8b949e">h)</tspan></text>
 </svg>
