@@ -1,161 +1,38 @@
-<div align="center">
-
 <img src="assets/pfp.svg" alt="ASCII portrait of Manan Kapoor" width="620" />
 
 # Manan Kapoor
 
-### ML Systems Engineer | LLM Inference | Data Pipelines | AI Infrastructure
+Computer engineering student working on ML systems — LLM inference, memory-efficient
+model serving, and the data pipelines that feed fine-tuning. Mostly interested in where
+latency, memory, and throughput actually bind.
 
-Designing and optimizing systems for large language models — focusing on inference performance, memory efficiency, scalability, and real-world deployment constraints.
+[github](https://github.com/manankapoor23) ·
+[linkedin](https://www.linkedin.com/in/manan-kapoor-8545002a0/) ·
+[email](mailto:23.kapoormanan@gmail.com)
 
-<br/>
+<img src="assets/stats.svg" alt="Contribution calendar and LeetCode totals" width="800" />
 
-[LinkedIn](https://www.linkedin.com/in/manan-kapoor-8545002a0/) • 
-[Email](mailto:23.kapoormanan@gmail.com) • 
-[GitHub](https://github.com/manankapoor23)
+## Work
 
-</div>
+**KV-Paged inference for transformers** — a paging-based KV cache that decouples logical
+token positions from physical memory, with prefix reuse, reference counting, and
+copy-on-write sharing. Cuts redundant allocation in long-context decoding; numerics
+verified against naive attention to within 0.1%.
 
----
+**PLC-Rewrite** — data engineering for Punjabi LLM fine-tuning. 16M+ tokens across 1.1M+
+sentences, deduplicated and noise-filtered into schema-validated JSONL for instruction
+tuning and evaluation.
 
-## Contributions
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manankapoor23&theme=transparent" alt="github profile summary" />
-
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manankapoor23&theme=transparent" />
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manankapoor23&theme=transparent" />
-
-<img src="https://streak-stats.demolab.com?user=manankapoor23&hide_border=true&theme=transparent" alt="commit streak" />
-
-<!-- regenerated daily by .github/workflows/snake.yml, published to the `output` branch -->
-<img src="https://raw.githubusercontent.com/manankapoor23/manankapoor23/output/github-snake-dark.svg" alt="contribution graph" />
-
-<img src="https://leetcard.jacoblin.cool/manankapoor23?theme=nord&font=JetBrains%20Mono&ext=heatmap" alt="leetcode stats" />
-
-</div>
-
----
-
-## Summary
-
-Computer Engineering student with a strong focus on **ML Systems Engineering, LLM inference optimization, and data pipeline design**.  
-
-Experienced in building **end-to-end systems around large language models**, including:
-- Transformer inference optimization (KV caching, memory management)
-- Large-scale dataset engineering for LLM fine-tuning
-- LLM-powered applications (RAG, NL → SQL systems)
-
-Interested in solving problems related to **latency, memory constraints, throughput, and scalability** in modern AI systems.
-
----
-
-## Core Competencies
-
-**ML Systems & Infrastructure**
-- Transformer inference optimization (KV cache, paging, prefix reuse)
-- Memory-efficient model serving and execution
-- Performance profiling (latency, memory, compute trade-offs)
-
-**LLM Engineering**
-- Fine-tuning workflows (instruction tuning, dataset preparation)
-- Retrieval-Augmented Generation (RAG)
-- Prompt engineering and structured generation
-
-**Data Engineering for ML**
-- Large-scale dataset cleaning, deduplication, and normalization
-- JSONL dataset design for training pipelines
-- Data validation and reproducibility
-
-**Backend & Systems**
-- API development (FastAPI)
-- Pipeline orchestration concepts (Airflow, MLflow, DVC)
-- Dockerized workflows and reproducible environments
-
----
-
-## Featured Projects
-
-### KV-Paged Inference System for Transformer Models
-Systems-level implementation of memory-efficient KV caching for transformer inference.
-
-- Designed paging-based KV cache architecture decoupling logical token positions from physical memory
-- Implemented **prefix reuse, reference counting, and copy-on-write semantics** for efficient memory sharing
-- Reduced redundant allocations and improved memory efficiency in long-context decoding scenarios
-- Validated numerical correctness against naive attention (<0.1% deviation)
-
-**Keywords:** Transformer Inference, KV Cache, Memory Optimization, LLM Systems, PyTorch
-
----
-
-### Punjabi LLM Dataset Engineering Pipeline (PLC-Rewrite)
-Large-scale data engineering system for low-resource LLM fine-tuning.
-
-- Processed **16M+ tokens (1.1M+ sentences)** with automated deduplication and noise filtering
-- Built structured JSONL datasets for instruction tuning and evaluation
-- Designed reproducible pipelines with schema validation and metadata annotation
-- Improved data quality and reduced manual curation effort significantly
-
-**Keywords:** Data Pipelines, NLP, LLM Fine-Tuning, Dataset Engineering
-
----
-
-### Natural Language → SQL System (LLM Data Assistant)
-LLM-powered system for querying structured databases using natural language.
-
-- Built end-to-end pipeline: user query → SQL generation → execution → formatted response
-- Integrated with Slack using FastAPI and LangChain
-- Implemented schema-aware SQL generation for accurate query execution
-
-**Keywords:** LLM Applications, LangChain, SQL, Backend Systems, API Integration
-
----
-
-## Engineering Approach
-
-- System-first mindset: design architecture before implementation
-- Focus on **performance metrics**: memory usage, latency, throughput
-- Explicit analysis of **trade-offs** (memory vs compute vs scalability)
-- Emphasis on reproducibility and pipeline reliability
-- Preference for understanding underlying systems over relying only on frameworks
-
----
-
-## Tech Stack
-
-**Languages:** Python, C++, JavaScript  
-**ML/AI:** PyTorch, Transformers, Scikit-learn  
-**LLM Tools:** Hugging Face, LangChain, OpenAI SDK  
-**Data:** Pandas, NumPy, SQL (PostgreSQL, SQLite)  
-**Backend:** FastAPI  
-**Systems & Infra:** Docker, Linux, MLflow, DVC, Airflow  
-**Tools:** Git, Jupyter Notebook, VS Code  
-
----
+**Natural language → SQL** — schema-aware SQL generation over structured databases,
+executed and formatted back to the user through a FastAPI and LangChain service in Slack.
 
 ## Experience
 
-**NLP Research Intern — Thapar Institute of Engineering & Technology (2025–Present)**  
+**NLP Research Intern**, Thapar Institute of Engineering & Technology — 2025 to present.
+Built the data pipelines behind Punjabi LLM fine-tuning: deduplication, normalization,
+and validation across 16.2M tokens, with reproducibility as the constraint that mattered.
 
-- Built end-to-end data engineering pipelines for Punjabi LLM fine-tuning  
-- Processed **16.2M+ tokens** with automated deduplication, normalization, and validation  
-- Developed structured datasets for instruction tuning and evaluation workflows  
-- Improved dataset quality and reproducibility for downstream training systems  
+## Tools
 
----
-
-## Current Work & Interests
-
-- LLM inference optimization (KV caching, memory-efficient decoding)
-- Scalable ML systems and model serving architectures
-- Dataset engineering for low-resource languages
-- System-level aspects of AI safety, robustness, and reliability
-
----
-
-## Links
-
-- GitHub: https://github.com/manankapoor23  
-- LinkedIn: https://www.linkedin.com/in/manan-kapoor-8545002a0/  
-- Email: 23.kapoormanan@gmail.com
+Python, C++ · PyTorch, Transformers, Hugging Face, LangChain · FastAPI, PostgreSQL ·
+Docker, MLflow, DVC, Airflow
