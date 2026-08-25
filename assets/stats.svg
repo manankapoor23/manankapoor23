@@ -383,5 +383,6 @@
 <rect x="760" y="118" width="11" height="11" rx="2" fill="#0d2d4d"><title>2026-08-22: 2</title></rect>
 <rect x="774" y="34" width="11" height="11" rx="2" fill="#1f6feb"><title>2026-08-23: 6</title></rect>
 <rect x="774" y="48" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-08-24: 7</title></rect>
+<rect x="774" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-08-25: 0</title></rect>
 <text x="46" y="148" fill="#c9d1d9">877<tspan fill="#8b949e"> contributions in the last year</tspan><tspan fill="#8b949e">    ·    </tspan>212<tspan fill="#8b949e"> solved on leetcode </tspan><tspan fill="#8b949e">(</tspan>115<tspan fill="#8b949e">e </tspan>86<tspan fill="#8b949e">m </tspan>11<tspan fill="#8b949e">h)</tspan></text>
 </svg>
