@@ -1,4 +1,6 @@
-<img src="assets/pfp.svg" alt="ASCII portrait of Manan Kapoor" width="620" />
+<div align="center">
+  <img src="assets/pfp.svg" alt="ASCII portrait of Manan Kapoor" width="520" />
+</div>
 
 # Manan Kapoor
 
