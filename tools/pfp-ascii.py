@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Regenerate assets/pfp.svg -- the ASCII avatar that streams in at the top of README.md.
+"""Regenerate assets/pfp.svg -- the greyscale ASCII avatar at the top of README.md.
 
 ponytail: macOS `sips` does the decode/crop/resize, so there is no Pillow or
 ImageMagick dependency -- we only hand-parse the uncompressed BMP it writes.
@@ -60,10 +60,14 @@ def svg(rows):
 
     for y, row in enumerate(rows):
         spans, run, cur = [], "", None
-        for x, (r, g, b) in enumerate(row):
+        for x, _ in enumerate(row):
             ch = RAMP[clamp((lum[y][x] - lo) * len(RAMP) // (span + 1))]
-            # colour gets the same window as the ramp, else shadowed skin stays near-black
-            col = f"#{lift(r)>>4:x}{lift(g)>>4:x}{lift(b)>>4:x}"
+            # Greyscale: every channel gets the same windowed luminance the ramp
+            # uses, so tone is carried by glyph density and brightness alone.
+            # Identical greys also make far longer run-length spans than three
+            # independent channels did, which shrinks the file substantially.
+            v = lift(lum[y][x]) >> 4
+            col = f"#{v:x}{v:x}{v:x}"
             if col != cur:
                 if run:
                     spans.append(f'<tspan fill="{cur}">{run}</tspan>')
