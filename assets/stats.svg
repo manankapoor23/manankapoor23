@@ -381,6 +381,7 @@
 <rect x="760" y="90" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-08-27: 33</title></rect>
 <rect x="760" y="104" width="11" height="11" rx="2" fill="#14507f"><title>2026-08-28: 3</title></rect>
 <rect x="760" y="118" width="11" height="11" rx="2" fill="#0d2d4d"><title>2026-08-29: 2</title></rect>
-<rect x="774" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-08-30: 0</title></rect>
-<text x="46" y="148" fill="#c9d1d9">1,085<tspan fill="#8b949e"> contributions in the last year</tspan><tspan fill="#8b949e">    ·    </tspan>218<tspan fill="#8b949e"> solved on leetcode </tspan><tspan fill="#8b949e">(</tspan>117<tspan fill="#8b949e">e </tspan>89<tspan fill="#8b949e">m </tspan>12<tspan fill="#8b949e">h)</tspan></text>
+<rect x="774" y="34" width="11" height="11" rx="2" fill="#0d2d4d"><title>2026-08-30: 1</title></rect>
+<rect x="774" y="48" width="11" height="11" rx="2" fill="#0d2d4d"><title>2026-08-31: 1</title></rect>
+<text x="46" y="148" fill="#c9d1d9">1,055<tspan fill="#8b949e"> contributions in the last year</tspan><tspan fill="#8b949e">    ·    </tspan>220<tspan fill="#8b949e"> solved on leetcode </tspan><tspan fill="#8b949e">(</tspan>117<tspan fill="#8b949e">e </tspan>91<tspan fill="#8b949e">m </tspan>12<tspan fill="#8b949e">h)</tspan></text>
 </svg>
