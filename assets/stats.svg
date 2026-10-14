@@ -370,7 +370,7 @@
 <rect x="746" y="34" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-09-27: 25</title></rect>
 <rect x="746" y="48" width="11" height="11" rx="2" fill="#0d2d4d"><title>2026-09-28: 2</title></rect>
 <rect x="746" y="62" width="11" height="11" rx="2" fill="#0d2d4d"><title>2026-09-29: 1</title></rect>
-<rect x="746" y="76" width="11" height="11" rx="2" fill="#1f6feb"><title>2026-09-30: 6</title></rect>
+<rect x="746" y="76" width="11" height="11" rx="2" fill="#1f6feb"><title>2026-09-30: 5</title></rect>
 <rect x="746" y="90" width="11" height="11" rx="2" fill="#1f6feb"><title>2026-10-01: 4</title></rect>
 <rect x="746" y="104" width="11" height="11" rx="2" fill="#0d2d4d"><title>2026-10-02: 1</title></rect>
 <rect x="746" y="118" width="11" height="11" rx="2" fill="#1f6feb"><title>2026-10-03: 4</title></rect>
@@ -382,7 +382,8 @@
 <rect x="760" y="104" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-10-09: 14</title></rect>
 <rect x="760" y="118" width="11" height="11" rx="2" fill="#0d2d4d"><title>2026-10-10: 1</title></rect>
 <rect x="774" y="34" width="11" height="11" rx="2" fill="#0d2d4d"><title>2026-10-11: 1</title></rect>
-<rect x="774" y="48" width="11" height="11" rx="2" fill="#14507f"><title>2026-10-12: 3</title></rect>
-<rect x="774" y="62" width="11" height="11" rx="2" fill="#14507f"><title>2026-10-13: 3</title></rect>
-<text x="46" y="148" fill="#c9d1d9">1,221<tspan fill="#8b949e"> contributions in the last year</tspan><tspan fill="#8b949e">    ·    </tspan>247<tspan fill="#8b949e"> solved on leetcode </tspan><tspan fill="#8b949e">(</tspan>130<tspan fill="#8b949e">e </tspan>101<tspan fill="#8b949e">m </tspan>16<tspan fill="#8b949e">h)</tspan></text>
+<rect x="774" y="48" width="11" height="11" rx="2" fill="#1f6feb"><title>2026-10-12: 4</title></rect>
+<rect x="774" y="62" width="11" height="11" rx="2" fill="#1f6feb"><title>2026-10-13: 4</title></rect>
+<rect x="774" y="76" width="11" height="11" rx="2" fill="#0d2d4d"><title>2026-10-14: 2</title></rect>
+<text x="46" y="148" fill="#c9d1d9">1,224<tspan fill="#8b949e"> contributions in the last year</tspan><tspan fill="#8b949e">    ·    </tspan>248<tspan fill="#8b949e"> solved on leetcode </tspan><tspan fill="#8b949e">(</tspan>130<tspan fill="#8b949e">e </tspan>102<tspan fill="#8b949e">m </tspan>16<tspan fill="#8b949e">h)</tspan></text>
 </svg>
