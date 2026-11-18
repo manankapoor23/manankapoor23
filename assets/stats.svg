@@ -95,7 +95,7 @@
 <rect x="186" y="104" width="11" height="11" rx="2" fill="#0d2d4d"><title>2026-01-30: 2</title></rect>
 <rect x="186" y="118" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-01-31: 9</title></rect>
 <rect x="200" y="34" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-02-01: 10</title></rect>
-<rect x="200" y="48" width="11" height="11" rx="2" fill="#1f6feb"><title>2026-02-02: 8</title></rect>
+<rect x="200" y="48" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-02-02: 8</title></rect>
 <rect x="200" y="62" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-02-03: 11</title></rect>
 <rect x="200" y="76" width="11" height="11" rx="2" fill="#1f6feb"><title>2026-02-04: 6</title></rect>
 <rect x="200" y="90" width="11" height="11" rx="2" fill="#1f6feb"><title>2026-02-05: 7</title></rect>
@@ -147,7 +147,7 @@
 <rect x="298" y="48" width="11" height="11" rx="2" fill="#1f6feb"><title>2026-03-23: 6</title></rect>
 <rect x="298" y="62" width="11" height="11" rx="2" fill="#1f6feb"><title>2026-03-24: 7</title></rect>
 <rect x="298" y="76" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-03-25: 12</title></rect>
-<rect x="298" y="90" width="11" height="11" rx="2" fill="#1f6feb"><title>2026-03-26: 8</title></rect>
+<rect x="298" y="90" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-03-26: 8</title></rect>
 <rect x="298" y="104" width="11" height="11" rx="2" fill="#14507f"><title>2026-03-27: 3</title></rect>
 <rect x="298" y="118" width="11" height="11" rx="2" fill="#14507f"><title>2026-03-28: 3</title></rect>
 <rect x="312" y="34" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-03-29: 27</title></rect>
@@ -300,7 +300,7 @@
 <rect x="606" y="34" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-08-23: 10</title></rect>
 <rect x="606" y="48" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-08-24: 14</title></rect>
 <rect x="606" y="62" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-08-25: 21</title></rect>
-<rect x="606" y="76" width="11" height="11" rx="2" fill="#1f6feb"><title>2026-08-26: 8</title></rect>
+<rect x="606" y="76" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-08-26: 8</title></rect>
 <rect x="606" y="90" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-08-27: 35</title></rect>
 <rect x="606" y="104" width="11" height="11" rx="2" fill="#14507f"><title>2026-08-28: 3</title></rect>
 <rect x="606" y="118" width="11" height="11" rx="2" fill="#14507f"><title>2026-08-29: 3</title></rect>
@@ -362,14 +362,14 @@
 <rect x="718" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2026-10-24: 0</title></rect>
 <rect x="732" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-10-25: 0</title></rect>
 <rect x="732" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-10-26: 0</title></rect>
-<rect x="732" y="62" width="11" height="11" rx="2" fill="#1f6feb"><title>2026-10-27: 8</title></rect>
+<rect x="732" y="62" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-10-27: 8</title></rect>
 <rect x="732" y="76" width="11" height="11" rx="2" fill="#14507f"><title>2026-10-28: 4</title></rect>
 <rect x="732" y="90" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-10-29: 9</title></rect>
 <rect x="732" y="104" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-10-30: 11</title></rect>
 <rect x="732" y="118" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-10-31: 10</title></rect>
 <rect x="746" y="34" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-11-01: 13</title></rect>
 <rect x="746" y="48" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-11-02: 27</title></rect>
-<rect x="746" y="62" width="11" height="11" rx="2" fill="#1f6feb"><title>2026-11-03: 8</title></rect>
+<rect x="746" y="62" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-11-03: 8</title></rect>
 <rect x="746" y="76" width="11" height="11" rx="2" fill="#1f6feb"><title>2026-11-04: 7</title></rect>
 <rect x="746" y="90" width="11" height="11" rx="2" fill="#1f6feb"><title>2026-11-05: 6</title></rect>
 <rect x="746" y="104" width="11" height="11" rx="2" fill="#14507f"><title>2026-11-06: 3</title></rect>
@@ -383,6 +383,7 @@
 <rect x="760" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2026-11-14: 0</title></rect>
 <rect x="774" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-11-15: 0</title></rect>
 <rect x="774" y="48" width="11" height="11" rx="2" fill="#0d2d4d"><title>2026-11-16: 1</title></rect>
-<rect x="774" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-11-17: 0</title></rect>
-<text x="46" y="148" fill="#c9d1d9">1,258<tspan fill="#8b949e"> contributions in the last year</tspan><tspan fill="#8b949e">    ·    </tspan>249<tspan fill="#8b949e"> solved on leetcode </tspan><tspan fill="#8b949e">(</tspan>131<tspan fill="#8b949e">e </tspan>102<tspan fill="#8b949e">m </tspan>16<tspan fill="#8b949e">h)</tspan></text>
+<rect x="774" y="62" width="11" height="11" rx="2" fill="#0d2d4d"><title>2026-11-17: 2</title></rect>
+<rect x="774" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-11-18: 0</title></rect>
+<text x="46" y="148" fill="#c9d1d9">1,260<tspan fill="#8b949e"> contributions in the last year</tspan><tspan fill="#8b949e">    ·    </tspan>249<tspan fill="#8b949e"> solved on leetcode </tspan><tspan fill="#8b949e">(</tspan>131<tspan fill="#8b949e">e </tspan>102<tspan fill="#8b949e">m </tspan>16<tspan fill="#8b949e">h)</tspan></text>
 </svg>
